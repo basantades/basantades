@@ -12,71 +12,53 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-      <span>HTML5</span>
-    </div>
-    
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-      <span>CSS3</span>
-    </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /><br/>HTML5
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-      <span>JavaScript</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /><br/>CSS3
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-      <span>TypeScript</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" />
-      <span>Angular</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /><br/>TypeScript
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" />
-      <span>Firebase</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" /><br/>Angular
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-      <span>MongoDB</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" /><br/>Firebase
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-      <span>Node.js</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /><br/>MongoDB
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-      <span>Express</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br/>Node.js
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" />
-      <span>Supabase</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /><br/>Express
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-      <span>Tailwind</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" /><br/>Supabase
+</p>
 
-    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-      <span>Git</span>
-    </div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br/>Tailwind CSS
+</p>
 
-  </div>
-</div>
+<p align="center" style="display: inline-block; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /><br/>Git
+</p>
 
 ---
 
