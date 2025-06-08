@@ -12,53 +12,30 @@
 
 ## 🛠️ Tecnologías y herramientas
 
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /><br/>HTML5
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>&nbsp;&nbsp;&nbsp;  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" title="Angular"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/devicon:tailwindcss.svg" width="50" title="Tailwind CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" title="Bootstrap"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="Sass"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="Visual Studio Code"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Adobe Illustrator"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Adobe Photoshop"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/>
 </p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /><br/>CSS3
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /><br/>TypeScript
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" /><br/>Angular
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" /><br/>Firebase
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /><br/>MongoDB
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br/>Node.js
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /><br/>Express
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" /><br/>Supabase
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br/>Tailwind CSS
-</p>
-
-<p align="center" style="display: inline-block; margin: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /><br/>Git
-</p>
+<br>
 
 ---
 
@@ -96,6 +73,14 @@ Desde **mayo de 2025** colaboro como desarrollador frontend (Angular) en el proy
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en conectar o explorar mi trabajo.
+## 💼 Abierto a nuevas oportunidades
+
+Actualmente estoy abierto a nuevas oportunidades laborales donde pueda seguir creciendo como **desarrollador frontend** y/o **diseñador UX/UI**, colaborar con equipos inspiradores y continuar aprendiendo en el camino.
+
+📩 Si crees que podría encajar bien en tu equipo, **¡no dudes en contactarme!**
+
+---
+
+¡Gracias por visitar mi perfil! 
 
 ---
