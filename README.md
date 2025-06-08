@@ -12,26 +12,71 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /> HTML5</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /> CSS3</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /> JavaScript</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /> TypeScript</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" /> Angular</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" /> Firebase</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /> Node.js</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /> Express</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" /> Supabase</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" /> Tailwind CSS</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /> Git</td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+      <span>HTML5</span>
+    </div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+      <span>CSS3</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+      <span>JavaScript</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+      <span>TypeScript</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" />
+      <span>Angular</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" />
+      <span>Firebase</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+      <span>MongoDB</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+      <span>Node.js</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+      <span>Express</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" />
+      <span>Supabase</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+      <span>Tailwind</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+      <span>Git</span>
+    </div>
+
+  </div>
+</div>
 
 ---
 
