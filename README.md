@@ -67,6 +67,8 @@ Desde **mayo de 2025** colaboro como desarrollador frontend (Angular) en el proy
 
 ## 📚 Proyectos del bootcamp IT Academy
 
+<img src="https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1748585675/logo.png" width="225px">
+
 - [S1.1 - HTML y CSS con Flexbox](https://github.com/basantades/S1.1.-HTML-i-CSS-amb-Flex)
 - [S1.2 - Bootstrap y SASS](https://github.com/basantades/S1.2.-Bootstrap-SASS)
 - [S2.1 - Ejercicios básicos de JavaScript](https://github.com/basantades/S2.1.-Exercicis-basics-JavaScript)
