@@ -4,11 +4,16 @@
 
 💡 Con una trayectoria en diseño gráfico y una especialización reciente en desarrollo con Angular, combino creatividad y código para construir experiencias web elegantes y centradas en el usuario.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://basantades.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertobasanta) 
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/19h_76yJXkYsbDNo9laZYt0wX1qgJQ57j/view)
+<br>
 
----
+## 🌐 Enlaces
+
+- 🖥️ **[Portfolio](https://basantades.vercel.app/)**
+- ✒️ **[CodePen](https://codepen.io/basantades)**  
+- 💼 **[LinkedIn](https://linkedin.com/in/albertobasanta)**  
+- 📄 **[CV en PDF](https://drive.google.com/file/d/19h_76yJXkYsbDNo9laZYt0wX1qgJQ57j/view)**
+<br>
+
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -37,7 +42,6 @@
 </p>
 <br>
 
----
 
 ## 🌟 Proyecto destacado — ITforEach
 
@@ -49,13 +53,15 @@
 
 🔗 [Repositorio](https://github.com/basantades/ITforEach) | [Web](https://itforeach.vercel.app/) | [Presentación](https://gamma.app/docs/Descubre-y-comparte-tus-proyectos-7dxf0kf8e2u6lqs?mode=doc)
 
----
+<br>
+
 
 ## 🤝 Proyecto colaborativo
 
 Desde **mayo de 2025** colaboro como desarrollador frontend (Angular) en el proyecto [ita-challenges-frontend](https://github.com/IT-Academy-BCN/ita-challenges-frontend) de IT Academy. Trabajamos con metodologías Agile y Scrum: sprints, gestión de tareas con Taiga, reuniones diarias, ramas por funcionalidad, pull requests, revisiones de código entre compañeros, tests unitarios y control de calidad con SonarCloud.
 
----
+<br>
+
 
 ## 📚 Proyectos del bootcamp IT Academy
 
@@ -71,7 +77,8 @@ Desde **mayo de 2025** colaboro como desarrollador frontend (Angular) en el proy
 - [Backend - API para RollerBCN](https://github.com/basantades/Backend-RollerBCN)
 - [Frontend - App RollerBCN](https://github.com/basantades/RollerBCN)
 
----
+<br>
+
 
 ## 💼 Abierto a nuevas oportunidades
 
@@ -79,8 +86,7 @@ Actualmente estoy abierto a nuevas oportunidades laborales donde pueda seguir cr
 
 📩 Si crees que podría encajar bien en tu equipo, **¡no dudes en contactarme!**
 
----
+
+<br>
 
 ¡Gracias por visitar mi perfil! 
-
----
