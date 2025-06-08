@@ -11,7 +11,7 @@
 - 🖥️ **[Portfolio](https://basantades.vercel.app/)**
 - ✒️ **[CodePen](https://codepen.io/basantades)**  
 - 💼 **[LinkedIn](https://linkedin.com/in/albertobasanta)**  
-- 📄 **[CV en PDF](https://drive.google.com/file/d/19h_76yJXkYsbDNo9laZYt0wX1qgJQ57j/view)**
+- 📄 **[CV](https://drive.google.com/file/d/19h_76yJXkYsbDNo9laZYt0wX1qgJQ57j/view)**
 <br>
 
 
