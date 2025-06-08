@@ -1,4 +1,3 @@
-```md
 # 👋 Hola, soy Alberto Basanta Debasa
 
 🚀 **Desarrollador Frontend** en Barcelona, apasionado por crear interfaces limpias, responsive e interactivas usando tecnologías web modernas.
@@ -73,4 +72,3 @@ Desde **mayo de 2025** colaboro como desarrollador frontend (Angular) en el proy
 ¡Gracias por visitar mi perfil! No dudes en conectar o explorar mi trabajo.
 
 ---
-```
